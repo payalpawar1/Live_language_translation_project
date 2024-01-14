@@ -1,4 +1,3 @@
-# Live_language_translation_project
-I developed live language translation using css and html 
-CODECLAUSE TASK 1
+# Live_language_translation_project codeclause task 1
+
 
